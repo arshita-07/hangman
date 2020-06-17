@@ -35,7 +35,7 @@ public class intro extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Verdana", 1, 48)); // NOI18N
         jLabel1.setText("HANGMAN");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Arshita\\HANGMAN.jpeg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Arshita\\projects\\ip_investigatory_final\\hangman main.PNG")); // NOI18N
         jLabel2.setText("jLabel2");
 
         jButton1.setFont(new java.awt.Font("Verdana", 1, 24)); // NOI18N
@@ -73,7 +73,7 @@ public class intro extends javax.swing.JFrame {
                     .addGroup(layout.createSequentialGroup()
                         .addGap(127, 127, 127)
                         .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 104, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addContainerGap(22, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         pack();
