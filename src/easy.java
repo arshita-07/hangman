@@ -5,8 +5,6 @@
  */
 import java.sql.*;
 import javax.swing.*;
-
-
 /**
  *
  * @author Arshita Marwaha
